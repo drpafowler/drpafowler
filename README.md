@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Philip<br><br>- 🔭 I’m working as a student<br>- 📚 I am working towards an MS in Data Analytics</p>
+<p align="left">I'm Philip<br><br>- 🔭 I am a student<br>- 📚 I am working towards an MS in Data Analytics</p>
 
 ###
 
