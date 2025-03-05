@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Philip<br><br>- 🔭 I am a student</p>
+<p align="left">I'm Philip</p>
 
 ###
 
